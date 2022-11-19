@@ -27,8 +27,8 @@ else
 fi
 
 # 前端重新编译
-#yarn install
-#yarn run build:prod
+yarn install
+yarn run build:prod
 
 # 重新构建新的镜像
 echo "rebuild image"
